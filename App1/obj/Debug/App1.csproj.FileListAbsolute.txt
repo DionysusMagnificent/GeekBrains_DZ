@@ -1,0 +1,6 @@
+F:\Програкмирование гикбрэинс\App1\App1\bin\Debug\App1.exe.config
+F:\Програкмирование гикбрэинс\App1\App1\bin\Debug\App1.exe
+F:\Програкмирование гикбрэинс\App1\App1\bin\Debug\App1.pdb
+F:\Програкмирование гикбрэинс\App1\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+F:\Програкмирование гикбрэинс\App1\App1\obj\Debug\App1.exe
+F:\Програкмирование гикбрэинс\App1\App1\obj\Debug\App1.pdb
